@@ -1,0 +1,64 @@
+.post:hover {
+	border: 0 none;
+}
+.post-footer {
+display:block;
+}
+
+.comment-link {
+top:13px;
+left:235px;
+position:absolute;
+background: #60432E;
+padding:5px 15px; 
+}
+.post-comment-link a {
+color:#fff;
+}
+.post-comment-link a:hover {
+text-decoration:none;
+}
+.post img {height:auto;border:0 none; background:none;}
+
+.post h3 {
+    line-height: 30px;
+    margin: 0 0 20px;
+    padding: 0 0 5px;
+}
+
+.post h3 a, .post h3 a:visited, .post h3 strong {
+font-size:20px;
+}
+
+.post h3 strong, .post h3 a:hover {
+text-decoration:none;
+}
+
+
+.post-labels{font-size:12px;background:none;border:0 none;position:relative;}
+
+.post-author{display:block;}
+
+.post-body{        height: auto;
+    overflow: hidden;
+    padding: 25px 25px 0 0;
+    width: 675px;
+}
+
+.post {
+    border: 0 none;
+    border-radius: 0;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+    display: inline;
+    float: none;
+    height: auto;
+    list-style: none outside none;
+    margin-bottom: 0;
+    margin-right: 0;
+    overflow: hidden;
+    padding: 15px;
+    width: 660px;
+    position: relative;
+    text-align: left;
+}
